@@ -1,4 +1,4 @@
-# swe1-app
+# Polling App in SE-I course (Django)
 
 A polling app
 
