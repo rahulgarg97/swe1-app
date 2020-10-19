@@ -8,5 +8,5 @@ sqlparse==0.3.1
 whitenoise==5.2.0
 black==20.8b1
 flake8==3.8.2
-coverage==5.3
+coverage
 coveralls==2.1.2
